@@ -1,6 +1,5 @@
 
-# Exp 6 Simulation of Optical Communication System
-
+Exp 6 Simulation of Optical Communication System
 ## Introduction to OptiPerformer 
 ## Objective
 Download and install OptiPerformer software on your computer and run a sample file.
@@ -70,15 +69,23 @@ The system includes:
 ## Tabulation
 
 **Transmission Analysis Across Fiber Lengths**
+![WhatsApp Image 2025-11-17 at 21 56 08_02f3e8c0](https://github.com/user-attachments/assets/35e14a6b-b25e-42b6-8635-13afacc25747)
 
-![66](https://github.com/user-attachments/assets/bf8ab82d-62d3-48a4-8118-743117b2967f)
 
+---
 
 ## Graphs
 
-
-<img width="832" height="301" alt="66" src="https://github.com/user-attachments/assets/948efdc7-175d-4290-b819-09e2c7dc3bcb" />
+<img width="1912" height="1100" alt="513039598-566a99a6-5102-48bc-9e9a-da70cd664c39" src="https://github.com/user-attachments/assets/a9ed59e3-1f16-4dcf-805b-cdc4b239997c" />
+<img width="1909" height="975" alt="513040432-c07e2dac-efe7-420a-9ce3-c07f8af41f87" src="https://github.com/user-attachments/assets/8c3b67a1-f017-407f-8923-eeea830e727c" />
+<img width="1919" height="980" alt="513040666-e25a0844-1a26-4026-aad6-9584f15d2a96" src="https://github.com/user-attachments/assets/09112fc7-349f-44c3-b072-592d807d98b2" />
 
 ## RESULT
 
-The OptiPerformer simulation successfully demonstrated how increasing fiber length causes reduced received power, degraded Q-factor, higher BER, and a progressively closing eye diagram in an optical communication system.
+The optical communication system was successfully simulated using OptiPerformer. As the fiber length increased from 50 km to 150 km, the following trends were observed:
+
+Received optical power decreased due to fiber attenuation.
+Q-factor gradually decreased, indicating signal quality degradation.
+Bit Error Rate (BER) increased with distance, showing higher error probability.
+The eye diagram became more closed at longer fiber lengths, confirming dispersion and noise effects.
+Hence, the simulation verified that optical signal performance deteriorates with increasing fiber length due to attenuation and dispersion losses.
